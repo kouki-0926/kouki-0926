@@ -18,8 +18,9 @@
     </div>
   </div>
 
-  <h1 align="center">Languages and Tools</h1>
+  <hr>
   <div align="center">
+    <h1 align="center">Languages and Tools</h1>
     <a href="https://www.cprogramming.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" />
     </a>
@@ -47,8 +48,20 @@
     <a href="https://opencv.org/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" />
     </a>
+    <a href="https://www.sympy.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/sympy/sympy/master/doc/src/logo/sympy.svg" alt="sympy" width="60" />
+    </a>
+    <a href="https://numpy.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/numpy/numpy/master/doc/source/_static/numpylogo.svg" alt="numpy" width="60" />
+    </a>
+    <a href="https://matplotlib.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/logo2_compressed.svg" alt="matplotlib" width="60" />
+    </a>
     <a href="https://flask.palletsprojects.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" />
+    </a>
+    <a href="https://palletsprojects.com/p/jinja/" target="_blank">
+      <img src="https://github.com/pallets/jinja/blob/main/docs/_static/jinja-logo-sidebar.png?raw=true" alt="jinja2" width="60" />
     </a>
     <a href="https://getbootstrap.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" />
@@ -66,6 +79,15 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" />
     </a>
   </div>
+
+  <hr>
+  <div align="center">
+    <h1 align="center">GitHub Profile Trophy</h1>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+      <img src="https://github-profile-trophy.vercel.app/?username=kouki-0926&column=7" alt="github-profile-trophy">
+    </a>
+  </div>
+
 </body>
 
 </html>
