@@ -44,6 +44,9 @@
     <a href="https://www.latex-project.org/" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="latex" width="60" />
     </a>
+    <a href="http://www.doxygen.jp/" target="_blank">
+      <img src="https://raw.githubusercontent.com/doxygen/doxygen/master/doc/doxygen_logo.svg" alt="doxygen" width="60" />
+    </a>
     <a href="https://opencv.org/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" />
     </a>
