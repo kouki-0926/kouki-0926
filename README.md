@@ -18,7 +18,6 @@
     </div>
   </div>
 
-  <hr>
   <div align="center">
     <h1 align="center">Languages and Tools</h1>
     <a href="https://www.cprogramming.com/" target="_blank">
@@ -38,9 +37,6 @@
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" />
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" />
     </a>
     <a href="https://www.mathworks.com/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" />
@@ -78,9 +74,17 @@
     <a href="https://www.linux.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" />
     </a>
+    <a href="https://www.arduino.cc/" target="_blank">
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" />
+    </a>
+    <a href="https://www.raspberrypi.com/" target="_blank">
+      <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="raspberrypi" width="60" />
+    </a>
+    <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/" target="_blank">
+      <img src="https://s3.amazonaws.com/cms.ipressroom.com/219/files/20149/544a0d86f6091d6699000060_NVLogo_2D/NVLogo_2D_362acb00-8e1b-476b-9662-9fe138a4a920-prv.jpg" alt="NVIDIA" width="60" />
+    </a>
   </div>
 
-  <hr>
   <div align="center">
     <h1 align="center">GitHub Profile Trophy</h1>
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
