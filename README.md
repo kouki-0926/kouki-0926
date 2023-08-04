@@ -92,3 +92,19 @@
     <img src="https://github-profile-trophy.vercel.app/?username=kouki-0926&column=8" alt="github-profile-trophy">
   </a>
 </div>
+
+<div align="center">
+  <h1 align="center">RobotArm</h1>
+  <a href="https://github.com/kouki-0926/RobotArm/blob/main/graph/simulation_48.gif" target="_blank">
+    <img src="https://github.com/kouki-0926/RobotArm/blob/main/graph/simulation_48.gif?raw=true" alt="RobotArm" width="74.5%" />
+  </a>
+  <a href="https://github.com/kouki-0926/RobotArm/blob/main/movie/movie48.gif" target="_blank">
+    <img src="https://github.com/kouki-0926/RobotArm/blob/main/movie/movie48.gif?raw=true" alt="RobotArm" width="23.5%" />
+  </a>
+  <a href="https://github.com/kouki-0926/RobotArm/blob/main/graph/simulation_48.png" target="_blank">
+    <img src="https://github.com/kouki-0926/RobotArm/blob/main/graph/simulation_48.png?raw=true" alt="RobotArm" width="49%" />
+  </a>
+  <a href="https://github.com/kouki-0926/RobotArm/blob/main/graph/simulation_48_2.png" target="_blank">
+    <img src="https://github.com/kouki-0926/RobotArm/blob/main/graph/simulation_48_2.png?raw=true" alt="RobotArm" width="49%" />
+  </a>
+</div>
