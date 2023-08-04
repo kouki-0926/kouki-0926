@@ -39,17 +39,23 @@
   <a href="http://www.doxygen.jp/" target="_blank">
     <img src="https://raw.githubusercontent.com/doxygen/doxygen/master/doc/doxygen_logo.svg" alt="doxygen" width="7%" />
   </a>
+  <a href="https://eigen.tuxfamily.org/index.php?title=Main_Page" target="_blank">
+    <img src="https://gitlab.com/libeigen/eigen/-/raw/master/doc/Eigen_Silly_Professor_64x64.png?ref_type=heads" alt="eigen" width="7%" />
+  </a>
   <a href="https://opencv.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="7%" />
+  </a>
+  <a href="https://pointclouds.org/" target="_blank">
+    <img src="https://github.com/PointCloudLibrary/documentation/blob/gh-pages/tutorials/_images/pcl_logo.png?raw=true" alt="pcl" width="7%" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" alt="matplotlib" width="7%" />
   </a>
   <a href="https://www.sympy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/sympy/sympy/master/doc/src/logo/sympy.svg" alt="sympy" width="7%" />
   </a>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/numpy/numpy/master/doc/source/_static/numpylogo.svg" alt="numpy" width="7%" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" alt="matplotlib" width="7%" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="7%" />
