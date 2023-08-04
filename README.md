@@ -98,7 +98,7 @@
   <a href="https://github.com/kouki-0926/RobotArm/blob/main/graph/simulation_48.gif" target="_blank">
     <img src="https://github.com/kouki-0926/RobotArm/blob/main/graph/simulation_48.gif?raw=true" alt="RobotArm" width="74.5%" />
   </a>
-  <a href="https://github.com/kouki-0926/RobotArm/blob/main/movie/movie48.gif" target="_blank">
+  <a href="https://github.com/kouki-0926/RobotArm/blob/main/movie/movie48_1.gif" target="_blank">
     <img src="https://github.com/kouki-0926/RobotArm/blob/main/movie/movie48_2.gif?raw=true" alt="RobotArm" width="23.5%" />
   </a>
   <a href="https://github.com/kouki-0926/RobotArm/blob/main/graph/simulation_48.png" target="_blank">
