@@ -114,3 +114,16 @@
     <img src="https://github.com/kouki-0926/RobotArm/blob/main/graph/simulation_48_2.png?raw=true" alt="RobotArm" width="49%" />
   </a>
 </div>
+
+<div align="center">
+  <h1 align="center">WebSite</h1>
+  <a href="https://flaskmath.azurewebsites.net/CPU/translate" target="_blank">
+    <img src="imgs/website/translate.png" alt="translate" width="32%" />
+  </a>
+  <a href="https://flaskmath.azurewebsites.net/ticket" target="_blank">
+    <img src="imgs/website/ticket.png" alt="ticket" width="32%" />
+  </a>
+  <a href="https://flaskmath.azurewebsites.net/game/janken?type=rm&n=init" target="_blank">
+    <img src="imgs/website/janken.png" alt="janken" width="32%" />
+  </a>
+</div>
