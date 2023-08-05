@@ -123,7 +123,7 @@
   <a href="https://flaskmath.azurewebsites.net/ticket" target="_blank">
     <img src="imgs/website/ticket.png" alt="ticket" width="32%" />
   </a>
-  <a href="https://flaskmath.azurewebsites.net/game/janken?type=rm&n=init" target="_blank">
+  <a href="https://flaskmath.azurewebsites.net/game/janken?type=ml&n=init" target="_blank">
     <img src="imgs/website/janken.png" alt="janken" width="32%" />
   </a>
 </div>
