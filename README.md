@@ -100,7 +100,7 @@
 </div>
 
 <div align="center">
-  <h1 align="center">RobotArm</h1>
+  <a href="https://github.com/kouki-0926/RobotArm"><h1 align="center">RobotArm</h1></a>
   <a href="https://github.com/kouki-0926/RobotArm/blob/main/graph/simulation_48.gif" target="_blank">
     <img src="https://github.com/kouki-0926/RobotArm/blob/main/graph/simulation_48.gif?raw=true" alt="RobotArm" width="74.5%" />
   </a>
@@ -116,7 +116,7 @@
 </div>
 
 <div align="center">
-  <h1 align="center">WebSite</h1>
+  <a href="https://github.com/kouki-0926/FlaskMathOnHeroku"><h1 align="center">WebSite</h1></a>
   <a href="https://flaskmath.azurewebsites.net/CPU/translate" target="_blank">
     <img src="imgs/website/translate.png" alt="translate" width="32%" />
   </a>
