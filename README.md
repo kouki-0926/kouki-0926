@@ -95,7 +95,7 @@
 <div align="center">
   <h1 align="center">GitHub Profile Trophy</h1>
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=kouki-0926&column=8" alt="github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kouki-0926&column=9" alt="github-profile-trophy">
   </a>
 </div>
 
