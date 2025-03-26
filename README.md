@@ -58,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/numpy/numpy/master/doc/source/_static/numpylogo.svg" alt="numpy" width="7%" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="7%" />
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" alt="flask" width="7%" />
   </a>
   <a href="https://palletsprojects.com/p/jinja/" target="_blank">
     <img src="https://github.com/pallets/jinja/blob/main/docs/_static/jinja-logo-sidebar.png?raw=true" alt="jinja2" width="7%" />
